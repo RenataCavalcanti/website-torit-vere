@@ -1,0 +1,110 @@
+baseURL = "https://carolgoncalves.com/"
+languageCode = "pt-br"
+theme = "raditian-free-hugo-theme"
+contentDir = "content/conteudo"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+
+  [[menu.header]]
+  name = "Biografia"
+  URL = "#biografia"
+  weight = 2
+
+  [[menu.header]]
+  name = "Trajetória"
+  URL = "#trajetoria"
+  weight = 3
+
+  [[menu.header]]
+  name = "Doações"
+  URL = "#doacoes"
+  weight = 4
+
+  [[menu.header]]
+  name = "Bandeiras"
+  URL = "#bandeiras"
+  weight = 5
+
+  [[menu.header]]
+  name = "Apoiadores"
+  URL = "#apoiadores"
+  weight = 6
+
+
+  [[menu.header]]
+  name = "Contato"
+  URL = "#contato"
+  weight = 7
+
+
+  [[menu.footer]]
+  name = "Biografia"
+  URL = "#Biografia"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Trajetória"
+  URL = "#trajetoria"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Doações"
+  URL = "#doacoes"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Bandeiras"
+  URL = "#bandeiras"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Apoiadores"
+  URL = "#apoiadores"
+  weight = 6
+
+  [[menu.footer]]
+  name = "Contato"
+  URL = "#contato"
+  weight = 7
+
+
+[params]
+  custom_css = ["css/custom.css"]
+
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+
+  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+
+
+
+  [params.logo]
+    text1 = "Carol"
+    text2 = "Gonçalves"
+
+  [params.footer]
+      copyright = "© Carol Gonçalves"
+      [params.footer.radity_logo]
+        x = "img/general/cgbranco.png"
+        _2x = "img/general/cgbranco.png"

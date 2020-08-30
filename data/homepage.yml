@@ -1,0 +1,252 @@
+# homepage
+homepage:
+  head:
+    title: "Início"
+# showcase
+showcase:
+  enable: true
+  title: "Olá, sou Carol Gonçalves."
+  subtitle: "Pré Candidata a Vereadora pela cidade de Toritama!"
+  description: "Sou uma jovem toritamense e pernambucana de 23 anos. Sou filha de mãe e pai costureiros e a 
+  mais velha de três irmãos. Moro no Antão, comunidade de Toritama e sou Pernambucana de coração!"
+  image:
+    alt: "Carol Goncalves"
+    x: "img/showcase/carol_editado.png"
+    _2x: "img/showcase/carol_editado.png"
+  imageMobile:
+    alt: "Carol Goncalves"
+    x: "img/showcase/carol_editado.png"
+
+  socialLinks:
+    - icon: "twitter"
+      URL: "https://twitter.com/Carol_Toritama"
+    - icon: "instagram"
+      URL: "https://www.instagram.com/carolgoncalves.pe/"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/carolayne.kelley"
+
+
+# about
+about:
+  enable: true
+  title: "Quem sou eu?"
+  content: '<p class="lead">
+    Tive minha vida transformada pela educação! Sou formada em Relações Internacionais pela ASCES-UNITA como aluna 
+    bolsista do FIES e participei de diversos projetos de extensão do LAPRI. Graças às bolsas de estudo, tive acesso 
+    a oportunidades, mas percebi logo cedo que poucos jovens com a minha mesma realidade de vida estão nesses espaços. 
+    E essa é também uma das minhas motivações para entrar na política.
+    </p>
+    <p class="lead">
+    Participo de movimentos sociais que possuem este propósito: mudar a vida das pessoas menos favorecidas. 
+    Já fui embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, no qual 
+    desenvolvi negócios de impacto social. Também participei da imersão 
+    de <a href=” https://www.politize.com.br”> Embaixadores Politize</a>, que possibilitou levar educação 
+    política para quase 1000 jovens e adultos em 2019 em Toritama.
+    </p>
+    <p class="lead">
+    Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social que 
+    proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural sobre 
+    diversos países. Mais recentemente me formei como aluna do <a href=https://renovabr.org> RenovaBR</a>, que tem 
+    como missão fazer com que pessoas comuns, como eu, entrem na política e causem transformações nesse país. 
+    </p>'
+  image:
+    x: "img/showcase/carol-bio.jpeg"
+    _2x: "img/showcase/carol-bio.jpeg"
+
+# trajetória
+education:
+  enable: true
+  title: "Trajetória"
+  items:
+    - university: "Relações Internacionais - ASCES/UNITA"
+      year: "2014"
+      degree: "Durante a graduação participei de projetos de extensão relacionados ao terceiro setor, voluntariado 
+      internacional, direito internacional dos refugiados e comércio exterior, além de três simulações, 
+      estas proporcionadas pela ASCES-UNITA, sobre o Conselho de Segurança das Nações Unidas no que tange as crises 
+      no Oriente Médio, a União Europeia e a crise dos refugiados, e a Conferência Quadro das Nações Unidas sobre 
+      Mudanças Climáticas com foco na COP 21 sobre mudanças climáticas."
+    - university: "Project Management Day"
+      year: "2018"
+      degree: "Tive a oportunidade de me qualificar na Gestão de Projetos, o que me proporciona vontade de aplicar
+       todo o conhecimento adquirido diretamente na política de Toritama."
+    - university: "SEDEEC-PMC"
+      year: "2018"
+      degree: "Trabalhei como estagiária na Secretaria de Desenvolvimento Econômico e Economia Criativa da 
+    Prefeitura Municipal de Caruaru e por isso consegui trabalhar como auxiliar na Coordenação da Indústria, a qual
+    participei dos projetos relacionados ao Polo de Desenvolvimento Sustentável do Agreste (PDSA), 
+    ao monitoramente do Distrito Industrial e auxílio no desenvolvimento de projetos para o fomento econômico de 
+    indústrias no município de Caruaru (PE). Durante o estágio recebi uma capacitação para ser Agente de 
+    Desenvolvimento, esta proporcionada pelo SEBRAE Caruaru."
+
+# doacoes / trajetoria
+experience:
+  enable: true
+  title: "Doações"
+  description: "Voce pode doar aqui"
+  button:
+    btnText: "Doações"
+    URL: "https://www.vakinha.com.br"
+
+
+  items:
+    - title: ""
+      company: "Luto por políticas que possam ajudar nossos cidadãos de Toritama"
+      duration: ""
+
+# bandeiras
+client_and_work:
+  title: "Bandeiras"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/cidade_infra.png"
+        _2x: "img/clients/cidade_infra.png"
+      alt: "Cidade e Infraestrutura"
+      
+
+    - logo:
+        x: "img/clients/politics.png"
+        _2x: "img/clients/politics.png"
+      alt: "Inovação Política"
+
+    - logo:
+        x: "img/clients/economia.png"
+        _2x: "img/clients/economia.png"
+      alt: "Economia"
+
+    - logo:
+        x: "img/clients/educacao.png"
+        _2x: "img/clients/educacao.png"
+      alt: "Educação"
+
+    - logo:
+        x: "img/clients/mulher.png"
+        _2x: "img/clients/mulher.png"
+      alt: "Direitos das Mulheres"
+
+  works:
+    - title: "Cidade e Infraestrutura"
+      description: "Conheço as dificuldades de Toritama. Hoje a cidade sofre com problemas básicos 
+      de infraestrutura, saneamento, urbanização, pouca acessibilidade e áreas de lazer para nossa
+      população. Mas também conheço seu potencial de mudança e, por isso, pretendo atuar na melhoria
+      da infraestrutura da nossa cidade com projetos que possam gerar mais inclusão, na urbanização
+      planejada, de modo que também permitam a construção de mais áreas verdes e de lazer."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça mais dados sobre a cidade"
+        URL: "https://cgpetoritama.netlify.app"
+      image:
+        x: "img/works/cidade-infra.jpg"
+        _2x: "img/works/cidade-infra.jpg"
+      is_even: true
+
+    - title: "Inovação Política"
+      description: "Luto por uma maior transparência, fiscalização e renovação na política. Acredito
+      que a juventude pode transformar a cidade participando mais ativamente das questões públicas e
+      isso pode ser alcançado através do diálogo com a população."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça mais dados sobre a cidade"
+        URL: "https://cgpetoritama.netlify.app"
+      image:
+        x: "img/works/ativistas.jpg"
+        _2x: "img/works/ativistas.jpg"
+      is_even: false
+
+    - title: "Economia"
+      description: "Este é um setor forte na nossa cidade, mas pouco diversificado. Enfrentamos 
+      desafios diários na nossa economia. Acredito na força de inovação do nosso setor têxtil
+      e, por isso, vou lutar pela modernização do nosso comércio com um único objetivo: melhorar a
+      vida dos nossos cidadãos. Cuidar da economia local é cuidar dos empregos da nossa população."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça mais dados sobre a cidade"
+        URL: "https://cgpetoritama.netlify.app"
+      image:
+        x: "img/works/economia2.jpg"
+        _2x: "img/works/economia2.jpg"
+      is_even: true
+
+
+    - title: "Educação"
+      description: "Sempre pude aproveitar as oportunidades que recebi e, portanto, sei da importância
+      da educação na vida de todos. Mas sei também que sou uma entre muitos. Em Toritama, ainda
+      persistem os desafios no ensino e poucas pessoas têm a oportunidade de se qualificar. É
+      necessário uma melhoria no ensino, com foco na primeira infância e incentivo ao futuro dos
+      nossos estudantes. Uma educação de qualidade pode oferecer mais oportunidades às novas gerações
+      que vão crescer e movimentar a economia."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça mais dados sobre a cidade"
+        URL: "https://cgpetoritama.netlify.app"
+      image:
+        x: "img/works/educacao2.png"
+        _2x: "img/works/educacao2.png"
+      is_even: false
+
+    - title: "Direitos da Mulher"
+      description: "Em Toritama, boa parte das casas são chefiadas por mulheres solteiras que têm em
+      média 2 filhos. As mulheres movimentam nossa economia, mas ainda enfrentam sérios problemas e,
+      por isso, merecem uma atenção especial. Apesar disso, na nossa cidade não existem projetos
+      específicos para nossas cidadãs."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Conheça mais dados sobre a cidade"
+        URL: "https://cgpetoritama.netlify.app"
+      image:
+        x: "img/works/direitos_mulheres.jpg"
+        _2x: "img/works/direitos_mulheres.jpg"
+      is_even: true
+# testimonial
+testimonial:
+  enable: true
+  title: "Apoiadores"
+  items:
+    - name: "Tabata Amaral"
+      position: "Deputada Estadual, PDT/SP"
+      content: ""
+      image:
+        x: "img/testimonials/tabata.jpg"
+        _2x: "img/testimonials/tabata.jpg"
+
+    - name: "RENOVA BR"
+      position: "Movimento político"
+      content: ""
+      image:
+        x: "img/testimonials/rbr.jpg"
+        _2x: "img/testimonials/rbr.jpg"
+
+    - name: "Acredito"
+      position: "Movimento político"
+      content: ""
+      image:
+        x: "img/testimonials/acredito.jpg"
+        _2x: "img/testimonials/acredito.jpg"
+
+#doacoes
+doacoes: 
+  enable: true
+  title: "Doações"
+  description: "voce pode doar aqui"
+
+# contact
+contact:
+  enable: true
+  title: "Contato"
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Nome"
+    email: "E-mail"
+    message: "Digite sua mensagem"
+  phone:
+    title: "Telefone"
+    number: "(81) 99858-9401"
+  email:
+    title: "Email"
+    email: '<a href="mailto:carolgoncalves.contato@gmail.com">carolgoncalves.contato@gmail.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Enviar mensagem"

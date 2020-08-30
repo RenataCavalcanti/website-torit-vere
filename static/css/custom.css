@@ -1,0 +1,36 @@
+/* You can customize theme styles here */
+body {cursive;
+    }
+    p {text-align: justify;;
+    }
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #b879dd;
+  color: white;
+  font-size: 30px;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #b879dd;
+    color: black;
+    text-align: center;
+
+.navbar {
+  font-size: 1em;
+    }
+   
+.header .navbar-brand {
+  margin: 0 10px 0 30px;
+  font-size: 1em;
+  color: #642bc0;
+    }
+@media (min-width: 992px) {
+.header .navbar-brand {
+        margin: 0 10px 0 0;
+        color: teal;
+      }
+    }
