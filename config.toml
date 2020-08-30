@@ -1,4 +1,4 @@
-baseURL = "https://carolgoncalves.com/"
+baseURL = ""
 languageCode = "pt-br"
 theme = "raditian-free-hugo-theme"
 contentDir = "content/conteudo"
