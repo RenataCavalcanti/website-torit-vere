@@ -7,8 +7,7 @@ showcase:
   enable: true
   title: "Olá, sou Carol Gonçalves."
   subtitle: "Pré Candidata a Vereadora pela cidade de Toritama!"
-  description: "Sou uma jovem toritamense e pernambucana de 23 anos. Sou filha de mãe e pai costureiros e a 
-  mais velha de três irmãos. Moro no Antão, comunidade de Toritama e sou Pernambucana de coração!"
+  description: "Sou uma jovem toritamense e pernambucana de 23 anos. Sou filha de mãe e pai costureiros e a mais velha de três irmãos. Moro no Antão, comunidade de Toritama e sou Pernambucana de coração!"
   image:
     alt: "Carol Goncalves"
     x: "img/showcase/carol_editado.png"
