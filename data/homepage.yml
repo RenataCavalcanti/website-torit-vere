@@ -178,7 +178,7 @@ client_and_work:
       que vão crescer e movimentar a economia."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre a educaçãp"
+        btnText: "Conheça mais dados sobre a educação"
         URL: "https://cgpetoritama.netlify.app/docs/educacao/educacao/"
       image:
         x: "img/works/educacao2.png"
