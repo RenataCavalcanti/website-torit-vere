@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://carolgoncalves.com/"
 languageCode = "pt-br"
 theme = "raditian-free-hugo-theme"
 contentDir = "content/conteudo"
@@ -38,11 +38,6 @@ contentDir = "content/conteudo"
   weight = 3
 
   [[menu.header]]
-  name = "Doações"
-  URL = "#doacoes"
-  weight = 4
-
-  [[menu.header]]
   name = "Bandeiras"
   URL = "#bandeiras"
   weight = 5
@@ -52,10 +47,15 @@ contentDir = "content/conteudo"
   URL = "#apoiadores"
   weight = 6
 
+  [[menu.header]]
+  name = "Voluntariado"
+  URL = "https://docs.google.com/forms/d/e/1FAIpQLSc6k5Y-ey9lel5of5O1L-XWtyfhvA490oCoUdevXpc90Qz_6Q/viewform"
+  weight = 8
+
 
   [[menu.header]]
   name = "Contato"
-  URL = "#contato"
+  URL = "https://docs.google.com/forms/d/e/1FAIpQLSebjTuR0ItmfHyN_GlnznxwXC3xKIqSVHIfTmHiVP7646H3PA/viewform"
   weight = 7
 
 
@@ -70,11 +70,6 @@ contentDir = "content/conteudo"
   weight = 3
 
   [[menu.footer]]
-  name = "Doações"
-  URL = "#doacoes"
-  weight = 4
-
-  [[menu.footer]]
   name = "Bandeiras"
   URL = "#bandeiras"
   weight = 5
@@ -85,9 +80,15 @@ contentDir = "content/conteudo"
   weight = 6
 
   [[menu.footer]]
+  name = "Voluntariado"
+  URL = "https://docs.google.com/forms/d/e/1FAIpQLSc6k5Y-ey9lel5of5O1L-XWtyfhvA490oCoUdevXpc90Qz_6Q/viewform"
+  weight = 8
+
+  [[menu.footer]]
   name = "Contato"
-  URL = "#contato"
+  URL = "https://docs.google.com/forms/d/e/1FAIpQLSebjTuR0ItmfHyN_GlnznxwXC3xKIqSVHIfTmHiVP7646H3PA/viewform"
   weight = 7
+
 
 
 [params]

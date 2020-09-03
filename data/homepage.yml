@@ -7,14 +7,22 @@ showcase:
   enable: true
   title: "Olá, sou Carol Gonçalves."
   subtitle: "Pré Candidata a Vereadora pela cidade de Toritama!"
-  description: "Sou uma jovem toritamense e pernambucana de 24 anos. Sou filha de mãe e pai costureiros e a mais velha de três irmãos. Moro no Antão, comunidade de Toritama e sou Pernambucana de coração!"
+  description: "Sou uma jovem toritamense e pernambucana de 23 anos. Sou filha de mãe e pai costureiros e a
+  mais velha de três irmãos. Moro no Antão, comunidade de Toritama e sou Pernambucana de coração!"
   image:
     alt: "Carol Goncalves"
-    x: "img/showcase/carol_editado.png"
-    _2x: "img/showcase/carol_editado.png"
+    x: "img/showcase/carol-bio.png"
+    _2x: "img/showcase/carol-bio.png"
   imageMobile:
     alt: "Carol Goncalves"
-    x: "img/showcase/carol_editado.png"
+    x: "img/showcase/carol-bio.png"
+  button:
+        icon: "icon-arrow-right"
+        btnText: "Vem falar comigo no WhatsApp!"
+        URL: "https://wa.me/message/F5D3WAEHOWHLF1 "
+
+
+
 
   socialLinks:
     - icon: "twitter"
@@ -31,23 +39,23 @@ about:
   enable: true
   title: "Quem sou eu?"
   content: '<p class="lead">
-    Tive minha vida transformada pela educação! Sou formada em Relações Internacionais pela ASCES-UNITA como aluna 
-    bolsista do FIES e participei de diversos projetos de extensão do LAPRI. Graças às bolsas de estudo, tive acesso 
-    a oportunidades, mas percebi logo cedo que poucos jovens com a minha mesma realidade de vida estão nesses espaços. 
+    Tive minha vida transformada pela educação! Sou formada em Relações Internacionais pela ASCES-UNITA como aluna
+    bolsista do FIES e participei de diversos projetos de extensão do LAPRI. Graças às bolsas de estudo, tive acesso
+    a oportunidades, mas percebi logo cedo que poucos jovens com a minha mesma realidade de vida estão nesses espaços.
     E essa é também uma das minhas motivações para entrar na política.
     </p>
     <p class="lead">
-    Participo de movimentos sociais que possuem este propósito: mudar a vida das pessoas menos favorecidas. 
-    Já fui embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, no qual 
-    desenvolvi negócios de impacto social. Também participei da imersão 
-    de <a href=” https://www.politize.com.br”> Embaixadores Politize</a>, que possibilitou levar educação 
+    Participo de movimentos sociais que possuem este propósito: mudar a vida das pessoas menos favorecidas.
+    Já fui embaixadora e mentora do <a href= https://www.movimentochoice.com >Movimento Choice</a>, no qual
+    desenvolvi negócios de impacto social. Também participei da imersão
+    de <a href=” https://www.politize.com.br”> Embaixadores Politize</a>, que possibilitou levar educação
     política para quase 1000 jovens e adultos em 2019 em Toritama.
     </p>
     <p class="lead">
-    Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social que 
-    proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural sobre 
-    diversos países. Mais recentemente me formei como aluna do <a href=https://renovabr.org> RenovaBR</a>, que tem 
-    como missão fazer com que pessoas comuns, como eu, entrem na política e causem transformações nesse país. 
+    Sou fundadora do Modelo das Nações Unidas em Toritama para estudantes o ensino médio, projeto social que
+    proporciona a adolescentes uma experiência de aprendizado sobre liderança, trabalho em equipe e cultural sobre
+    diversos países. Mais recentemente me formei como aluna do <a href=https://renovabr.org> RenovaBR</a>, que tem
+    como missão fazer com que pessoas comuns, como eu, entrem na política e causem transformações nesse país.
     </p>'
   image:
     x: "img/showcase/carol-bio.jpeg"
@@ -60,10 +68,10 @@ education:
   items:
     - university: "Relações Internacionais - ASCES/UNITA"
       year: "2014"
-      degree: "Durante a graduação participei de projetos de extensão relacionados ao terceiro setor, voluntariado 
-      internacional, direito internacional dos refugiados e comércio exterior, além de três simulações, 
-      estas proporcionadas pela ASCES-UNITA, sobre o Conselho de Segurança das Nações Unidas no que tange as crises 
-      no Oriente Médio, a União Europeia e a crise dos refugiados, e a Conferência Quadro das Nações Unidas sobre 
+      degree: "Durante a graduação participei de projetos de extensão relacionados ao terceiro setor, voluntariado
+      internacional, direito internacional dos refugiados e comércio exterior, além de três simulações,
+      estas proporcionadas pela ASCES-UNITA, sobre o Conselho de Segurança das Nações Unidas no que tange as crises
+      no Oriente Médio, a União Europeia e a crise dos refugiados, e a Conferência Quadro das Nações Unidas sobre
       Mudanças Climáticas com foco na COP 21 sobre mudanças climáticas."
     - university: "Project Management Day"
       year: "2018"
@@ -71,11 +79,11 @@ education:
        todo o conhecimento adquirido diretamente na política de Toritama."
     - university: "SEDEEC-PMC"
       year: "2018"
-      degree: "Trabalhei como estagiária na Secretaria de Desenvolvimento Econômico e Economia Criativa da 
+      degree: "Trabalhei como estagiária na Secretaria de Desenvolvimento Econômico e Economia Criativa da
     Prefeitura Municipal de Caruaru e por isso consegui trabalhar como auxiliar na Coordenação da Indústria, a qual
-    participei dos projetos relacionados ao Polo de Desenvolvimento Sustentável do Agreste (PDSA), 
-    ao monitoramente do Distrito Industrial e auxílio no desenvolvimento de projetos para o fomento econômico de 
-    indústrias no município de Caruaru (PE). Durante o estágio recebi uma capacitação para ser Agente de 
+    participei dos projetos relacionados ao Polo de Desenvolvimento Sustentável do Agreste (PDSA),
+    ao monitoramente do Distrito Industrial e auxílio no desenvolvimento de projetos para o fomento econômico de
+    indústrias no município de Caruaru (PE). Durante o estágio recebi uma capacitação para ser Agente de
     Desenvolvimento, esta proporcionada pelo SEBRAE Caruaru."
 
 # doacoes / trajetoria
@@ -89,7 +97,7 @@ experience:
 
 
   items:
-    - title: ""
+    - title: "que inferno"
       company: "Luto por políticas que possam ajudar nossos cidadãos de Toritama"
       duration: ""
 
@@ -103,7 +111,7 @@ client_and_work:
         x: "img/clients/cidade_infra.png"
         _2x: "img/clients/cidade_infra.png"
       alt: "Cidade e Infraestrutura"
-      
+
 
     - logo:
         x: "img/clients/politics.png"
@@ -127,15 +135,15 @@ client_and_work:
 
   works:
     - title: "Cidade e Infraestrutura"
-      description: "Conheço as dificuldades de Toritama. Hoje a cidade sofre com problemas básicos 
+      description: "Conheço as dificuldades de Toritama. Hoje a cidade sofre com problemas básicos
       de infraestrutura, saneamento, urbanização, pouca acessibilidade e áreas de lazer para nossa
       população. Mas também conheço seu potencial de mudança e, por isso, pretendo atuar na melhoria
       da infraestrutura da nossa cidade com projetos que possam gerar mais inclusão, na urbanização
       planejada, de modo que também permitam a construção de mais áreas verdes e de lazer."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre a cidade"
-        URL: "https://cgpetoritama.netlify.app/docs/cidade/cidade/"
+        btnText: "Mande sua ideia sobre a nossa cidade de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLScJZ21ro-nYo2BPqYL9SMJ46dYYwa3JGVjhqoq2vYhV3gVpkg/viewform?usp=sf_link"
       image:
         x: "img/works/cidade-infra.jpg"
         _2x: "img/works/cidade-infra.jpg"
@@ -147,22 +155,22 @@ client_and_work:
       isso pode ser alcançado através do diálogo com a população."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre política"
-        URL: "https://cgpetoritama.netlify.app/docs/politica/politica/"
+        btnText: "Mande sua ideia sobre a política de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLSfqymCxzwHbMcIl8Qn7VanlzVWg5nKojqA90bz4VA8NviiWng/viewform?usp=sf_link"
       image:
         x: "img/works/ativistas.jpg"
         _2x: "img/works/ativistas.jpg"
       is_even: false
 
     - title: "Economia"
-      description: "Este é um setor forte na nossa cidade, mas pouco diversificado. Enfrentamos 
+      description: "Este é um setor forte na nossa cidade, mas pouco diversificado. Enfrentamos
       desafios diários na nossa economia. Acredito na força de inovação do nosso setor têxtil
       e, por isso, vou lutar pela modernização do nosso comércio com um único objetivo: melhorar a
       vida dos nossos cidadãos. Cuidar da economia local é cuidar dos empregos da nossa população."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre economia"
-        URL: "https://cgpetoritama.netlify.app/docs/economia/economia/"
+        btnText: "Mande sua ideia sobre a economia de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLSdzXxUXnFjBIlS2Emm1vzx4t3zeAhhMAfGmgihymoonOB3n_A/viewform?usp=sf_link"
       image:
         x: "img/works/economia2.jpg"
         _2x: "img/works/economia2.jpg"
@@ -178,8 +186,8 @@ client_and_work:
       que vão crescer e movimentar a economia."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre a educação"
-        URL: "https://cgpetoritama.netlify.app/docs/educacao/educacao/"
+        btnText: "Mande sua ideia sobre a educação de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLScoQ49C17ctotKA6T4baXJMBATZTKgMGmCsRCQBD9tcX9JuAQ/viewform?usp=sf_link"
       image:
         x: "img/works/educacao2.png"
         _2x: "img/works/educacao2.png"
@@ -192,8 +200,8 @@ client_and_work:
       específicos para nossas cidadãs."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre as mulheres"
-        URL: "https://cgpetoritama.netlify.app/docs/situacao-mulheres/situacao-mulheres/"
+        btnText: "Mande sua ideia sobre os direitos das mulheres de Toritama!"
+        URL: "https://docs.google.com/forms/d/e/1FAIpQLScbpie3ZpDALyhSo48JMAGuujV-uAQSYCGxDQIhIFLbfJYAcw/viewform?usp=sf_link"
       image:
         x: "img/works/direitos_mulheres.jpg"
         _2x: "img/works/direitos_mulheres.jpg"
@@ -224,13 +232,14 @@ testimonial:
         x: "img/testimonials/acredito.jpg"
         _2x: "img/testimonials/acredito.jpg"
 
-#doacoes
-doacoes: 
+#voluntariado
+voluntariado:
   enable: true
-  title: "Doações"
-  description: "voce pode doar aqui"
+  title: "Voluntarie-se na minha campanha!"
+  content: "clicando aqui etc"
 
 # contact
+
 contact:
   enable: true
   title: "Contato"
@@ -243,6 +252,9 @@ contact:
   phone:
     title: "Telefone"
     number: "(81) 99858-9401"
+  email:
+    title: "Whatsapp"
+    email: '<a href=https://wa.me/message/F5D3WAEHOWHLF1 > whatsapp</a>'
   email:
     title: "Email"
     email: '<a href="mailto:carolgoncalves.contato@gmail.com">carolgoncalves.contato@gmail.com</a>'

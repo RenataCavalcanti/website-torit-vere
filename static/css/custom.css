@@ -1,13 +1,15 @@
-/* You can customize theme styles here */
-body {cursive; 
+body {cursive;
+  }
+  p {
+  text-align: justify;
 }
-p {
-text-align: justify;
-}
+
+
+
 .header {
   padding: 20px;
   text-align: center;
-  background: #b879dd;
+  background: #50A69D;
   color: white;
   font-size: 30px;
 }
@@ -16,22 +18,22 @@ text-align: justify;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #b879dd;
+    background-color: #8F2769;
     color: black;
     text-align: center;
 
 .navbar {
   font-size: 1em;
     }
-   
+
 .header .navbar-brand {
   margin: 0 10px 0 30px;
   font-size: 1em;
-  color: #642bc0;
+  color: #ffffff;
     }
 @media (min-width: 992px) {
-.header .navbar-brand {
+.navbar-brand {
         margin: 0 10px 0 0;
-        color: teal;
+        color: rgb(255, 255, 255);
       }
     }
