@@ -135,7 +135,7 @@ client_and_work:
       button:
         icon: "icon-arrow-right"
         btnText: "Conheça mais dados sobre a cidade"
-        URL: "https://cgpetoritama.netlify.app"
+        URL: "https://cgpetoritama.netlify.app/docs/cidade/cidade/"
       image:
         x: "img/works/cidade-infra.jpg"
         _2x: "img/works/cidade-infra.jpg"
@@ -147,8 +147,8 @@ client_and_work:
       isso pode ser alcançado através do diálogo com a população."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre a cidade"
-        URL: "https://cgpetoritama.netlify.app"
+        btnText: "Conheça mais dados sobre política"
+        URL: "https://cgpetoritama.netlify.app/docs/politica/politica/"
       image:
         x: "img/works/ativistas.jpg"
         _2x: "img/works/ativistas.jpg"
@@ -161,8 +161,8 @@ client_and_work:
       vida dos nossos cidadãos. Cuidar da economia local é cuidar dos empregos da nossa população."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre a cidade"
-        URL: "https://cgpetoritama.netlify.app"
+        btnText: "Conheça mais dados sobre economia"
+        URL: "https://cgpetoritama.netlify.app/docs/economia/economia/"
       image:
         x: "img/works/economia2.jpg"
         _2x: "img/works/economia2.jpg"
@@ -178,8 +178,8 @@ client_and_work:
       que vão crescer e movimentar a economia."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre a cidade"
-        URL: "https://cgpetoritama.netlify.app"
+        btnText: "Conheça mais dados sobre a educaçãp"
+        URL: "https://cgpetoritama.netlify.app/docs/educacao/educacao/"
       image:
         x: "img/works/educacao2.png"
         _2x: "img/works/educacao2.png"
@@ -192,8 +192,8 @@ client_and_work:
       específicos para nossas cidadãs."
       button:
         icon: "icon-arrow-right"
-        btnText: "Conheça mais dados sobre a cidade"
-        URL: "https://cgpetoritama.netlify.app"
+        btnText: "Conheça mais dados sobre as mulheres"
+        URL: "https://cgpetoritama.netlify.app/docs/situacao-mulheres/situacao-mulheres/"
       image:
         x: "img/works/direitos_mulheres.jpg"
         _2x: "img/works/direitos_mulheres.jpg"

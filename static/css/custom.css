@@ -1,4 +1,7 @@
 /* You can customize theme styles here */
+body {
+  text-align: justify;
+}
 .header {
   padding: 20px;
   text-align: center;
